@@ -1,0 +1,1 @@
+fsstat Ch01InChap01.dd > outputs/fsstat.txt
