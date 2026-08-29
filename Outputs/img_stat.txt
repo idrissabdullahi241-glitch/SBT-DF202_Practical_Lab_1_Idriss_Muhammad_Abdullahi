@@ -1,0 +1,1 @@
+img_stat Ch01InChap01.dd > outputs/img_stat.txt
