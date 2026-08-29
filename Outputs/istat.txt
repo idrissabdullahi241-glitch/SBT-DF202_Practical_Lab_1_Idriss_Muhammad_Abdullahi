@@ -1,0 +1,1 @@
+istat Ch01InChap01.dd 13 > outputs/istat_13.txt
