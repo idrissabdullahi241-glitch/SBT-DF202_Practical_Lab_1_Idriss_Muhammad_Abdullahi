@@ -1,0 +1,3 @@
+fls Ch01InChap01.dd > outputs/fls.txt
+
+fls -r Ch01InChap01.dd > outputs/fls.txt
